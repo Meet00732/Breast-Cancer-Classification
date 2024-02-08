@@ -34,7 +34,3 @@ To use this notebook:
 ## Contributing
 
 Contributions to improve the analysis or extend the notebook with new features are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is open-source and available under the MIT License.
