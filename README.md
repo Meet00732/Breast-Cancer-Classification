@@ -20,7 +20,7 @@ The notebook is structured as follows:
 
 - Python 3.x
 - Jupyter Notebook
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib (please see the notebook for a complete list of required libraries and their installation instructions).
+- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib 
 
 ## Usage
 
@@ -30,7 +30,3 @@ To use this notebook:
 2. Install the required Python libraries.
 3. Download the notebook and the Breast Cancer Wisconsin (Diagnostic) Data Set.
 4. Open the notebook in Jupyter and run the cells sequentially to replicate the analysis.
-
-## Contributing
-
-Contributions to improve the analysis or extend the notebook with new features are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
